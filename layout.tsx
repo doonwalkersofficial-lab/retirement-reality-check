@@ -1,1 +1,0 @@
-import "./globals.css"; export const metadata={title:"Retirement Reality Check | Wealth With Aviral",description:"Explore your retirement numbers and life-after-work goals."}; export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
